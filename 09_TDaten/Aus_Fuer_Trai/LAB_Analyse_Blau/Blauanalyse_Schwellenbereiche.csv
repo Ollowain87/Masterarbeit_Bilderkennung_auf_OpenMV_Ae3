@@ -1,0 +1,5 @@
+Pixelgruppe,AnzahlPixel,L_min,L_max,A_min,A_max,B_min,B_max
+Nur normale Blau-Schwelle,1346723,4,82,-11,19,-44,-9
+Nur Dunkelblau-Schwelle,1384730,5,29,-9,3,-8,11
+Ueberschneidung,369000,5,29,-9,3,-10,-8
+Gesamtheit,1617533,5,79,-10,18,-42,10
